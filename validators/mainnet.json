@@ -1,0 +1,34 @@
+{
+  "validators": [
+    {
+      "voteKey": "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx",
+      "description": "High performance validator committed to the Solana ecosystem.",
+      "twitterHandle": "pumpkinspool",
+      "isVerified": true
+    },
+    {
+      "voteKey": "R1vAoSPFQdCc6wsAEMtxWXjqptSeN1YUiq2Zni1of21",
+      "description": "We use high-performance infrastructure and share MEV for you to earn ultra optimized rewards.",
+      "twitterHandle": "0xTromp",
+      "isVerified": true
+    },
+    {
+      "voteKey": "DimavhUqvCpWjUZqSFZGLqBiUVUYQ5jZEaCHutKKVs45",
+      "description": "I am an individual validator from Ukraine, I have extensive experience in Devops, I work in one of the largest banks in the country. The path to solana validators was long and difficult :). I was able to find a private data center, so I have good decentralization",
+      "twitterHandle": "BoJIaHq1",
+      "isVerified": true
+    },
+    {
+      "voteKey": "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx",
+      "description": "Juicy Stake was founded by Knox Trades, a Systems, Networking, and Cloud Architect but even moreso, a blockchain maxi. The goal for Juicy Stake is to provide validator staking and services to consumers who want to stake their crypto on Proof of Stake Blockchains.",
+      "twitterHandle": "JuicyStake_",
+      "isVerified": true
+    },
+    {
+      "voteKey": "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL",
+      "description": "Software & blockchain company. We operate a leading validator on Solana",
+      "twitterHandle": "laine_sa_",
+      "isVerified": true
+    }
+  ]
+}
