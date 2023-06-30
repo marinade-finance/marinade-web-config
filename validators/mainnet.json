@@ -26,8 +26,31 @@
     },
     {
       "voteKey": "GE6atKoWiQ2pt3zL7N13pjNHjdLVys8LinG8qeJLcAiL",
-      "description": "Software & blockchain company. We operate a leading validator on Solana",
+      "description": "We are a professional high-performance validator running on decentralized enterprise hardware. Available to answer any questions you have. Join our Discord at https://discord.gg/3JXdTavv6x.",
       "twitterHandle": "laine_sa_",
+      "isVerified": true
+    },
+    {
+      "voteKey": "9xEFsHZt2mbuGQjtVGABxpeQiNeDvj54pfsJrrrUUev6",
+      "description": "💰 High Yield - Top 10 APY | MEV | 0% fee 💰 | Running in a secure, high reliability data center | Our Discord: https://discord.gg/UuXGCfhjWp",
+      "twitterHandle": "Ereborus",
+      "isVerified": true
+    },
+    {
+      "voteKey": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+      "description": "Avaulto is a blockchain company that specializes in Proof of Stake technology. Its primary objective is to provide superior-quality nodes that support staking mechanisms for multiple blockchains. The company was established in 2020 with a strong emphasis on the following priority goals: ensuring node security, offering top-tier monitoring and alerting tools, exhibiting an unwavering commitment to the delegator and broader community, and maximizing uptime to achieve maximum gains.",
+      "twitterHandle": "Avaulto",
+      "isVerified": true
+    },
+    {
+      "voteKey": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
+      "description": "We use significant software and hardware optimizations to provide the best APY on Solana. If you would like to learn more about staking, validators and/or Solana please visit us on our discord at (discord.gg/cogent) or visit us at https://cogentcrypto.io/ where we publish guides and tools.",
+      "twitterHandle": "Cogent_Crypto",
+      "isVerified": true
+    },
+    {
+      "voteKey": "BWkvytz3MAiLkUbMuYK5yV1VYThbBYYQYG3gdef8NLw5",
+      "description": "Active member of Solana community and experienced IT engineer.",
       "isVerified": true
     }
   ]
