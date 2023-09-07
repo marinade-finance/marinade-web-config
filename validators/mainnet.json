@@ -40,7 +40,8 @@
       "voteKey": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
       "description": "We are building a community-driven, one-for-all platform, for Solana users.",
       "twitterHandle": "SolanaHubApp",
-      "isVerified": true
+      "isVerified": true,
+      "logoUrl":"https://github.com/Avaulto/SolanaHub/blob/master/solanahub-logo.png"
     },
     {
       "voteKey": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
