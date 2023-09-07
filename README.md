@@ -14,13 +14,15 @@ All the values are nullable, apart of the votekey and the structure is following
       "voteKey": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
       "description": "Chefs like to make the best steaks on the Solana",
       "twitterHandle": "MarinadeFinance",
-      "isVerified": true
+      "isVerified": true,
+      "logoUrl":"https://marinade.finance/marinade-logo-black.svg",
     },
     {
       "voteKey": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
       "description": "The kitchen you'd like to be in.",
       "twitterHandle": "MarinadeFinance",
-      "isVerified": true
+      "isVerified": true,
+      "logoUrl":"https://marinade.finance/marinade-logo-black.svg",
     }
   ]
 }
