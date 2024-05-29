@@ -1,6 +1,13 @@
 {
   "validators": [
     {
+      "voteKey": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
+      "description": "Embracing decentralization through Solana. High performance, integrity, reliability, security and passion are our principles.",
+      "twitterHandle": "StaRKeSol",
+      "isVerified": true
+      "logoUrl":"https://arweave.net/kgakRdwSkJHvxHlLwq1sSDQF0DIqzFXNvRcml9jdznE"
+    },
+    {
       "voteKey": "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx",
       "description": "High performance validator committed to the Solana ecosystem.",
       "twitterHandle": "pumpkinspool",
