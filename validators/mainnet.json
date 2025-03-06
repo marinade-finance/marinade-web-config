@@ -5,14 +5,14 @@
       "description": "T-STAKE Systems validator. We prioritize reliability, security, and performance to ensure the integrity of the Solana blockchain. Join us in shaping the decentralized future.",
       "twitterHandle": "T_STAKE_Systems",
       "isVerified": true,
-      "logoUrl":"https://t-stake.com/wp-content/uploads/2024/03/T-STAKE-8-e1711488932920.png"
+      "logoUrl": "https://t-stake.com/wp-content/uploads/2024/03/T-STAKE-8-e1711488932920.png"
     },
     {
       "voteKey": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
       "description": "Embracing decentralization through Solana. High performance, integrity, reliability, security and passion are our principles.",
       "twitterHandle": "StaRKeSol",
       "isVerified": true,
-      "logoUrl":"https://arweave.net/INyKzzPVD4BUqqMgQbd_QxmhmPJq-NrLHujNTouwD4g"
+      "logoUrl": "https://arweave.net/INyKzzPVD4BUqqMgQbd_QxmhmPJq-NrLHujNTouwD4g"
     },
     {
       "voteKey": "DsiG71AvUHUEo9rMMHqM9NAWQ6ptguRAHyot6wGzLJjx",
@@ -55,7 +55,7 @@
       "description": "Running Solana validator since 2021 | enhanced staking rewards | Building a community-driven, one-for-all platform, for Solana users.",
       "twitterHandle": "SolanaHubApp",
       "isVerified": true,
-      "logoUrl":"https://arweave.net/u6srYfaU9xJmUXkGG5BZMYi7CUEcZ-AiRNShXkvSRW8"
+      "logoUrl": "https://arweave.net/u6srYfaU9xJmUXkGG5BZMYi7CUEcZ-AiRNShXkvSRW8"
     },
     {
       "voteKey": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
@@ -70,7 +70,14 @@
     },
     {
       "voteKey": "6gNdKvKUXLsmGnhYHAa6BRtcirMEM6orhZfikoFVXen9",
-      "logoUrl":"https://node1.irys.xyz/v7mjymWz2rjAHe1Sn3rUECDdjWjYx_MZ_zi5hhQsgOU"
+      "logoUrl": "https://node1.irys.xyz/v7mjymWz2rjAHe1Sn3rUECDdjWjYx_MZ_zi5hhQsgOU"
+    },
+    {
+      "voteKey": "P1ayLpEHHVagavo2WGM3Rp9KKxwYU2VKQrfjdXGmKt1",
+      "description": "Fuelling Gaming on Solana",
+      "twitterHandle": "playsolana",
+      "isVerified": true,
+      "logoUrl": "https://arweave.net/aOuDMTou9kNXCR_n_JdLwpv5Uv6AolmlXv487OLH8QY"
     }
   ]
 }
